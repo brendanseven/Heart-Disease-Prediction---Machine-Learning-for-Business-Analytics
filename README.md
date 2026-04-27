@@ -144,7 +144,3 @@ A reasonably technical reader can reproduce the project by:
 
 No credentials are committed to this repository. The `.env` file is
 git-ignored and only `.env.example` ships with placeholder values.
-
-## License
-
-MIT
