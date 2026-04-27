@@ -55,6 +55,7 @@ matters for a clinical screening tool.
 
 ```bash
 git clone https://github.com/brendanseven/Heart-Disease-Prediction---Machine-Learning-for-Business-Analytics.git
+cd Heart-Disease-Prediction---Machine-Learning-for-Business-Analytics
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
